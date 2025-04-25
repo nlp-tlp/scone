@@ -1,3 +1,8 @@
+[![](https://img.shields.io/badge/pytorch%20-1.9.1%20-success?logo=pytorch)]()
+[![](https://img.shields.io/badge/python%20-3.8%20-sucess?logo=python)]()
+[![](https://img.shields.io/badge/tqdm%20-4.65.0%20-success?logo=tqdm)]()
+[![](https://img.shields.io/badge/linux%20-gray?logo=linux)]()
+
 # SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries
 
 This is the implementation of the paper
@@ -68,7 +73,7 @@ If you find this code useful for your research, please consider citing the follo
 ```bib
 @inproceedings{nguyen2023scone,
     title = "{SC}on{E}: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries",
-    author = "Nguyen, Chau D. M.  and
+    author = "Nguyen, Chau D. M. and
       French, Tim  and
       Liu, Wei  and
       Stewart, Michael",
@@ -77,7 +82,8 @@ If you find this code useful for your research, please consider citing the follo
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.findings-acl.755",
+    url = "https://aclanthology.org/2023.findings-acl.755/",
+    doi = "10.18653/v1/2023.findings-acl.755",
     pages = "11931--11946",
 }
 ```
